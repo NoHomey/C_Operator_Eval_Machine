@@ -8,7 +8,7 @@ C operator eval machine (cli app)
 
 ## Execute the produced executable
 
-## Enter operatorins to be evaled
+## Enter operations to be evaled
 
 # Suported operators
 
