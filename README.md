@@ -1,6 +1,6 @@
-# C_Operator_Eval_Machine
+# c-operator-eval-machine
 
-C operator eval machine (cli app)
+Operator eval machine (cli app) wriiten in pure C
 
 # Usage
 
